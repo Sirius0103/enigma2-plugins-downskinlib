@@ -1,0 +1,9 @@
+Package: enigma2-plugin-extensions-downskinlib
+Version: 1.5-r1
+Section: base
+Priority: optional
+Architecture: all
+Recommends:
+Maintainer: Sirius
+Homepage: https://github.com/Sirius0103/enigma2-plugins/DownSkinLIB
+Description: Download components skins library

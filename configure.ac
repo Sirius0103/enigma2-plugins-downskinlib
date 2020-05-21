@@ -43,11 +43,11 @@ AC_DEFINE_UNQUOTED(BOXTYPE,"$BOXTYPE",[box type])
 AC_CONFIG_FILES([
 Makefile
 
-DownSkinLIB/src/Makefile
-DownSkinLIB/src/buttons/Makefile
-DownSkinLIB/src/locale/de/LC_MESSAGES/Makefile
-DownSkinLIB/src/locale/ru/LC_MESSAGES/Makefile
-DownSkinLIB/src/locale/uk/LC_MESSAGES/Makefile
+DownSkinLIB/Makefile
+DownSkinLIB/buttons/Makefile
+DownSkinLIB/locale/de/LC_MESSAGES/Makefile
+DownSkinLIB/locale/ru/LC_MESSAGES/Makefile
+DownSkinLIB/locale/uk/LC_MESSAGES/Makefile
 
 ])
 AC_OUTPUT
